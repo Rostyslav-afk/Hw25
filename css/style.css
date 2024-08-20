@@ -39,14 +39,14 @@ img {
 }
 
 .item:nth-child(2) {
-    background: aquamarine;
+    background: greenyellow;
     position: absolute;
     top: 270px;
     right: 650px;
 }
 
 .item:nth-child(3) {
-    background: greenyellow;
+    background: aquamarine;
     position: absolute;
     top: 170px;
     right: 750px;
