@@ -28,3 +28,26 @@ p {
 img {
     display: block;
 }
+
+.item {
+    width: 150px;
+    height: 150px;
+    background: red;
+    position: absolute;
+    top: 80px;
+    right: 850px;
+}
+
+.item:nth-child(2) {
+    background: aquamarine;
+    position: absolute;
+    top: 270px;
+    right: 650px;
+}
+
+.item:nth-child(3) {
+    background: greenyellow;
+    position: absolute;
+    top: 170px;
+    right: 750px;
+}
